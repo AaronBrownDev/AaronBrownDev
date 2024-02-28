@@ -3,7 +3,7 @@
 
 - 🌏 Driven by an ambition to work remotely, with my sights set on exploring South Korea, Japan, and China with a goal of language immersion and cultural exchange.
 
-- 🌱 I’m currently learning **Golang and Javascript**
+- 🌱 I’m currently learning **Python, Java, Golang, and Javascript**
 
 - 📫 How to reach me **aaronb954@gmail.com**
 
