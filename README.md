@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aaron Brown</h1>
-<h3 align="center">College student chasing a bachelor's degree in Computer Science at LSU Shreveport. Fueled by a passion for backend development and the cloud.</h3>
+<h3 align="center">College student pursuing a bachelor's degree in Computer Science at LSU Shreveport. Interested in specializations like backend development and the cloud.</h3>
 
 - 🌏 Driven by an ambition to work remotely, with my sights set on exploring South Korea, Japan, and China with a goal of language immersion and cultural exchange.
 
