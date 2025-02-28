@@ -7,11 +7,10 @@ I'm a Computer Science student at LSU Shreveport with a concentration in softwar
 ## 🌟 About Me
 
 - 🎓 Pursuing a Bachelor's degree in Computer Science at LSU Shreveport
-- 💼 Data Analyst intern at Metro Aviation
+- 💼 Interned as a Data Analyst at Metro Aviation
 - 🏆 Currently developing a database management system for the Humane Society of Northwest Louisiana
 - 🌏 Passionate about East Asian cultures with goals to live and work in South Korea, Japan, and China
 - 📚 Lifelong learner with interests in languages, architecture, and different cultures
-- 🧩 Problem solver who relies on video tutorials, hands-on debugging, and thorough documentation review
 
 ## 🔭 Technical Focus
 
