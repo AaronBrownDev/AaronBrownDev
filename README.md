@@ -1,17 +1,90 @@
-<h1 align="center">Hi, I'm Aaron Brown</h1>
-<h3 align="center">College student pursuing a bachelor's degree in Computer Science at LSU Shreveport. Interested in specializations like backend development and the cloud.</h3>
+# 👋 Hi, I'm Aaron Brown
 
-- 🌏 Driven by an ambition to work remotely, with my sights set on exploring South Korea, Japan, and China with a goal of language immersion and cultural exchange.
+## 💻 Software Developer & Computer Science Student
 
-- 🌱 I’m currently learning **Python, Java, Golang, and Javascript**
+I'm a Computer Science student at LSU Shreveport with a concentration in software development, focusing on data structures, algorithms, databases, and web development. Driven by a passion for technology and the promise of location independence, I aspire to work as a remote software engineer while exploring new cultures and languages.
 
-- 📫 How to reach me **aaronb954@gmail.com**
+## 🌟 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aaronsoftwareengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaronsoftwareengineer" height="30" width="40" /></a>
-</p>
+- 🎓 Pursuing a Bachelor's degree in Computer Science at LSU Shreveport
+- 💼 Data Analyst intern at Metro Aviation
+- 🏆 Currently developing a database management system for the Humane Society of Northwest Louisiana
+- 🌏 Passionate about East Asian cultures with goals to live and work in South Korea, Japan, and China
+- 📚 Lifelong learner with interests in languages, architecture, and different cultures
+- 🧩 Problem solver who relies on video tutorials, hands-on debugging, and thorough documentation review
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🔭 Technical Focus
 
+- 🌱 Proficient in **Python** and **Java**, with experience in **AWS** and **SQL Server**
+- 🧰 Actively expanding skills in **Golang**, **JavaScript**, **HTML/CSS**, **PHP**, **Bash**, and **Linux**
+- 🌐 Building projects that demonstrate clean architecture and best practices
+- 🛠️ Interested in backend development and cloud infrastructure
+
+## 🛠️ Projects Showcase
+
+### [HumaneSociety](https://github.com/AaronBrownDev/HumaneSociety)
+A comprehensive shelter management system built with Go and SQL Server.
+- **Tech Stack**: Go, SQL Server, HTML/CSS
+- **Features**: Pet adoption workflow, medical tracking, volunteer management
+- **Highlights**: Complex database schema design with stored procedures and triggers
+
+### [Personal Finance Application](https://github.com/AaronBrownDev/FinalProject_Brown_Aaron)
+A Java finance application to track accounts, transactions, and budgets.
+- **Tech Stack**: Java
+- **Design Patterns**: Singleton, Repository Pattern, Facade Pattern, Chain of Responsibility
+- **Highlights**: Clean OOP architecture with separation of concerns
+
+### [PythonMazeSolver](https://github.com/AaronBrownDev/PythonMazeSolver)
+A visual maze generation and solving application with UI representation.
+- **Tech Stack**: Python, Tkinter
+- **Algorithms**: Recursive backtracking for generation, Depth-first search for solving
+- **Highlights**: Real-time visualization of both maze generation and solution process
+
+### [PythonFileOrganizer](https://github.com/AaronBrownDev/PythonFileOrganizer)
+A utility script to declutter directories by automatically sorting files.
+- **Tech Stack**: Python
+- **Features**: Configurable file organization, duplicate handling
+- **Highlights**: Efficient file categorization by type
+
+### [WikiScraper](https://github.com/AaronBrownDev/WikiScraper)
+A data extraction tool for gathering structured information from Wikipedia.
+- **Tech Stack**: Python, BeautifulSoup, Requests
+- **Features**: Depth-first crawling, structured JSON output
+- **Highlights**: Hierarchical data organization with headers and subheaders
+
+### [PythonJobScraper](https://github.com/AaronBrownDev/PythonJobScraper)
+A tool for scraping developer job postings from specialized job boards.
+- **Tech Stack**: Python, BeautifulSoup, Requests
+- **Status**: In progress
+- **Highlights**: Targeted data extraction for specific career opportunities
+
+## 💼 Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Technologies & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+### Concepts
+- Object-Oriented Programming
+- Design Patterns
+- Database Design
+- Web Scraping & Data Processing
+- Algorithm Implementation
+
+## 📫 Let's Connect
+- LinkedIn: [aaronsoftwareengineer](https://linkedin.com/in/aaronsoftwareengineer)
+- Email: aaronb954@gmail.com
+
+---
+
+*"Driven by continuous self-improvement and building robust solutions one line of code at a time."*
