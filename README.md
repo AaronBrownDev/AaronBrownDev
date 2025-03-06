@@ -12,7 +12,7 @@ A full-stack web application for the Humane Society of Northwest Louisiana that 
 - **Features**: Pet database, adoption workflows, volunteer management
 - **Status**: In active development
 
-### [Personal Finance Application](https://github.com/AaronBrownDev/FinalProject_Brown_Aaron)
+### [Personal Finance Application](https://github.com/AaronBrownDev/LSUS-PersonalFinanceApp)
 An object-oriented finance tracking application showcasing clean architecture and design patterns.
 - **Tech Stack**: Java
 - **Design Patterns**: Singleton, Repository, Facade, Chain of Responsibility
