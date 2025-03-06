@@ -54,7 +54,7 @@ A utility script to automatically organize and declutter directories by file typ
 - Building scalable, maintainable systems with clean architecture
 
 ## 📫 Connect With Me
-- LinkedIn: [aaronsoftwareengineer](https://linkedin.com/in/aaronsoftwareengineer)
+- LinkedIn: [aaronbrowndev](https://linkedin.com/in/aaronbrowndev)
 - Email: aaronb954@gmail.com
 
 ---
