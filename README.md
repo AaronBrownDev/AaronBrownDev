@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hello!;I'm+Aaron." width="70%" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1&color=000000&background=DADADA48&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=70&lines=Hello!;I'm+Aaron." alt="Typing SVG" /></a>
 
 <pre>
     💼 CS @ LSUS '26 • Backend • Platform Engineering
